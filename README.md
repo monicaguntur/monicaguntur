@@ -7,4 +7,5 @@ Some of my works are -
 
 I collect my practice sessions with various technologies in the following repositories -
 
-1. SQL - [link](https://github.com/monicaguntur/study/tree/main/sql)
+1. Programming - [algorithms](https://github.com/monicaguntur/study/tree/main/algorithms)
+2. SQL - [link](https://github.com/monicaguntur/study/tree/main/sql)
