@@ -1,5 +1,5 @@
 ### Monica Guntur
-I am interested in using mathematical optimization, operations research and machine learning to solve real-world problems.
+I am interested in using optimization, operations research, data science and machine learning to solve real-world problems.
 
 Some of my works are -
 
